@@ -1,6 +1,10 @@
-### Welcome :raised_hand_with_fingers_splayed:
+### Welcome to Flotiq Github page :raised_hand_with_fingers_splayed:
 
 <img src="https://flotiq.com/static/hero_desktop-4894423ad4df154677959c0b251aabad.svg" alt="Flotiq baner" title="Flotiq"/>
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=kubernetes,docker,react,nodejs,tailwind" />
+</p>
 
 ## API first headless CMS 
 
@@ -24,7 +28,7 @@
 * [Blog](https://flotiq.com/blog/) - Flotiq updates and life inside our company
 * **[Try live demo](https://meet.simplyscale.io/15min-flotiq-tour)**- book a call with our founder to discuss Flotiq for your product needs.
 
-:star2: Community
+:star2: Community <img src="https://skillicons.dev/icons?i=twitter,discord" />
 
 * [Discord](https://discord.gg/V8vcfReN3w)
 * [Twitter](https://twitter.com/flotiq>)
