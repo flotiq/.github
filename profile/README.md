@@ -23,7 +23,7 @@
 :computer: Flotiq
 
 * [Docs](https://flotiq.com/docs/) - more technical information about Flotiq functionalities
-* [Starters](https://flotiq.com/starters/) - NextJS and Gatsby professionals starters for your product
+* [Starters](https://flotiq.com/starters/) - custom designed, professional starter projects based on NextJS and Gatsby, to help you start your next website
 * [React components](https://flotiq.github.io/flotiq-components-react/?path=/story/flotiq-components-for-react--page)  - Flotiq React components library
 * [Blog](https://flotiq.com/blog/) - Flotiq updates and life inside our company
 * **[Try live demo](https://meet.simplyscale.io/15min-flotiq-tour)**- book a call with our founder to discuss Flotiq for your product needs.
