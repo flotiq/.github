@@ -10,7 +10,7 @@
 
 ### Enjoy fast and painless content delivery to any channel with our headless CMS platform.
 
-**[Try live demo](https://meet.simplyscale.io/15min-flotiq-tour)**
+**[Book a demo](https://meet.simplyscale.io/15min-flotiq-tour)**
 
 :rocket: **Flotiq is a headless CMS that lets your teams create and share content across multiple channels with auto-generated, compliant APIs.**
 
@@ -22,11 +22,12 @@
 
 :computer: Flotiq
 
+* [Try Flotiq now](https://editor.flotiq.com/login.html) - create a free account and build your first project
 * [Docs](https://flotiq.com/docs/) - more technical information about Flotiq functionalities
-* [Starters](https://flotiq.com/starters/) - custom designed, professional starter projects based on NextJS and Gatsby, to help you start your next website
+* [Starters](https://flotiq.com/starters/) - custom-designed, professional starter projects based on NextJS and Gatsby, to help you start your next website
 * [React components](https://flotiq.github.io/flotiq-components-react/?path=/story/flotiq-components-for-react--page)  - Flotiq React components library
 * [Blog](https://flotiq.com/blog/) - Flotiq updates and life inside our company
-* **[Try live demo](https://meet.simplyscale.io/15min-flotiq-tour)**- book a call with our founder to discuss Flotiq for your product needs.
+* **[Book a demo](https://meet.simplyscale.io/15min-flotiq-tour)**- book a call with our founder to discuss Flotiq for your product needs.
 
 :star2: Community <img src="https://skillicons.dev/icons?i=twitter,discord" />
 
