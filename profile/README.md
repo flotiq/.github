@@ -1,6 +1,6 @@
 ### Welcome to Flotiq Github page :raised_hand_with_fingers_splayed:
 
-<img src="https://flotiq.com/static/hero_desktop-4894423ad4df154677959c0b251aabad.svg" alt="Flotiq baner" title="Flotiq"/>
+<a href="https://flotiq.com"><img src="https://flotiq.com/static/hero_desktop-4894423ad4df154677959c0b251aabad.svg" alt="Flotiq banner" title="Flotiq"/></a>
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=kubernetes,docker,react,nodejs,tailwind" />
