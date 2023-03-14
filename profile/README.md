@@ -1,8 +1,12 @@
 ### Welcome to Flotiq Github page :raised_hand_with_fingers_splayed:
 
-<a href="https://flotiq.com"><img src="https://flotiq.com/static/hero_desktop-4894423ad4df154677959c0b251aabad.svg" alt="Flotiq banner" title="Flotiq"/></a>
-
 <p align="center">
+    <a href="https://flotiq.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/109143307/225033715-cf3eea2f-26c8-48da-b224-5aa71d595dc8.png">
+      <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://user-images.githubusercontent.com/109143307/225033711-248a03d8-ffff-43b5-a96e-4d017530592f.png">
+    </picture>
+    </a>
     <img src="https://skillicons.dev/icons?i=kubernetes,docker,react,nodejs,tailwind" />
 </p>
 
@@ -29,7 +33,9 @@
 * [Blog](https://flotiq.com/blog/) - Flotiq updates and life inside our company
 * **[Book a demo](https://meet.simplyscale.io/15min-flotiq-tour)**- book a call with our founder to discuss Flotiq for your product needs.
 
-:star2: Community <img src="https://skillicons.dev/icons?i=twitter,discord" />
+<img src="https://skillicons.dev/icons?i=twitter,discord" />
+
+:star2: Community 
 
 * [Discord](https://discord.gg/V8vcfReN3w)
 * [Twitter](https://twitter.com/flotiq>)
