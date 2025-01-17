@@ -29,7 +29,7 @@
 * [Try Flotiq now](https://editor.flotiq.com/login/?utm_campaign=flotiq_headless_cms_app&utm_medium=referral&utm_source=github_readme) - create a free account and build your first project
 * [Docs](https://flotiq.com/docs/?utm_campaign=flotiq_headless_cms_app&utm_medium=referral&utm_source=github_readme) - more technical information about Flotiq functionalities
 * [Starters](https://flotiq.com/starters/?utm_campaign=flotiq_headless_cms_app&utm_medium=referral&utm_source=github_readme) - custom-designed, professional starter projects based on NextJS and Gatsby, to help you start your next website
-* [React components](https://flotiq.github.io/flotiq-components-react/?path=/story/flotiq-components-for-react--page)  - Flotiq React components library
+* [React components](https://flotiq.github.io/flotiq-components-react/?path=/docs/flotiq-components-for-react--docs)  - Flotiq React components library
 * [Blog](https://flotiq.com/blog/?utm_campaign=flotiq_headless_cms_app&utm_medium=referral&utm_source=github_readme) - Flotiq updates and life inside our company
 * **[Book a demo](https://meet.simplyscale.io/15min-flotiq-tour)**- book a call with our founder to discuss Flotiq for your product needs.
 
