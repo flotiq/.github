@@ -38,7 +38,7 @@
 :star2: Community 
 
 * [Discord](https://discord.gg/V8vcfReN3w)
-* [Twitter](https://twitter.com/flotiq>)
+* [Twitter](https://twitter.com/flotiq)
 * [Roadmap](https://flotiq.productlift.dev/t/roadmap>)
 
 If you have any questions or propositions on how to make Flotiq a better place, please [address them to us](mailto:hello@flotiq.com)
