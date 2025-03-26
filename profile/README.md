@@ -33,12 +33,10 @@
 * [Blog](https://flotiq.com/blog/?utm_campaign=flotiq_headless_cms_app&utm_medium=referral&utm_source=github_readme) - Flotiq updates and life inside our company
 * **[Book a demo](https://meet.simplyscale.io/15min-flotiq-tour)**- book a call with our founder to discuss Flotiq for your product needs.
 
-<img src="https://skillicons.dev/icons?i=twitter,discord" />
-
 :star2: Community 
 
-* [Discord](https://discord.gg/V8vcfReN3w)
-* [Twitter](https://twitter.com/flotiq)
-* [Roadmap](https://flotiq.productlift.dev/t/roadmap>)
+* [Discord](https://discord.gg/hzzuNsn4WX)
+* [X](https://x.com/flotiq)
+* [Changelog](https://flotiq.com/changelog)
 
 If you have any questions or propositions on how to make Flotiq a better place, please [address them to us](mailto:hello@flotiq.com)
