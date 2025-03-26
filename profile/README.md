@@ -14,7 +14,7 @@
 
 ### Enjoy fast and painless content delivery to any channel with our headless CMS platform.
 
-**[Book a demo](https://meet.simplyscale.io/15min-flotiq-tour)**
+**[Book a demo](https://calcom.dev.cdwv.pl/team/flotiq/demo)**
 
 :rocket: **Flotiq is a headless CMS that lets your teams create and share content across multiple channels with auto-generated, compliant APIs.**
 
@@ -31,12 +31,12 @@
 * [Starters](https://flotiq.com/starters/?utm_campaign=flotiq_headless_cms_app&utm_medium=referral&utm_source=github_readme) - custom-designed, professional starter projects based on NextJS and Gatsby, to help you start your next website
 * [React components](https://flotiq.github.io/flotiq-components-react/?path=/docs/flotiq-components-for-react--docs)  - Flotiq React components library
 * [Blog](https://flotiq.com/blog/?utm_campaign=flotiq_headless_cms_app&utm_medium=referral&utm_source=github_readme) - Flotiq updates and life inside our company
-* **[Book a demo](https://meet.simplyscale.io/15min-flotiq-tour)**- book a call with our founder to discuss Flotiq for your product needs.
+* **[Book a demo](https://calcom.dev.cdwv.pl/team/flotiq/demo)**- book a call with our founder to discuss Flotiq for your product needs.
 
 :star2: Community 
 
 * [Discord](https://discord.gg/hzzuNsn4WX)
 * [X](https://x.com/flotiq)
-* [Changelog](https://flotiq.com/changelog)
+* [Changelog](https://flotiq.com/changelog/?utm_campaign=flotiq_headless_cms_app&utm_medium=referral&utm_source=github_readme)
 
 If you have any questions or propositions on how to make Flotiq a better place, please [address them to us](mailto:hello@flotiq.com)
