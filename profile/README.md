@@ -35,8 +35,10 @@
 
 :star2: Community 
 
-* [Discord](https://discord.gg/hzzuNsn4WX)
-* [X](https://x.com/flotiq)
-* [Changelog](https://flotiq.com/changelog/?utm_campaign=flotiq_headless_cms_app&utm_medium=referral&utm_source=github_readme)
+<p align="center">
+<a href="https://discord.gg/hzzuNsn4WX"><img src="https://github.com/user-attachments/assets/f3c8ec6e-adab-4585-b5ab-8072c514baaa" alt="Discord" width="50px"/></a>
+<a href="https://x.com/flotiq"><img src="https://github.com/user-attachments/assets/f6677287-c00c-48dc-9ce8-189c00781eb6" alt="X" width="50px"/></a>
+<a href="https://flotiq.com/changelog/?utm_campaign=flotiq_headless_cms_app&utm_medium=referral&utm_source=github_readme"><img src="https://github.com/user-attachments/assets/7ce895d1-6870-4d31-8cf3-603b384e57d8" alt="Changelog" width="50px"/></a>
+</p>
 
 If you have any questions or propositions on how to make Flotiq a better place, please [address them to us](mailto:hello@flotiq.com)
