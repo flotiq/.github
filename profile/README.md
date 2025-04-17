@@ -3,8 +3,8 @@
 <p align="center">
     <a href="https://flotiq.com">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/109143307/225033715-cf3eea2f-26c8-48da-b224-5aa71d595dc8.png">
-      <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://user-images.githubusercontent.com/109143307/225033711-248a03d8-ffff-43b5-a96e-4d017530592f.png">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/aa49e23e-6488-4b05-a548-3ce9e2dec042">
+      <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://github.com/user-attachments/assets/c174b455-77c0-4d20-b4f8-aacf25f360d7">
     </picture>
     </a>
     <img src="https://skillicons.dev/icons?i=kubernetes,docker,react,nodejs,tailwind" />
