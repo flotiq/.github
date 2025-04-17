@@ -7,7 +7,7 @@
       <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://github.com/user-attachments/assets/50ceb114-29d1-4f79-8096-4f8941402e68">
     </picture>
     </a>
-    <img src="https://skillicons.dev/icons?i=kubernetes,docker,react,nodejs,tailwind" />
+    <img src="https://camo.githubusercontent.com/4f492beae269d5369b61fa4aa9b4634f75e9f4ce5246ae5d726043e9b70c0021/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6b756265726e657465732c646f636b65722c72656163742c6e6f64656a732c7461696c77696e64" />
 </p>
 
 ## API first headless CMS 
