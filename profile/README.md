@@ -35,8 +35,8 @@
 
 :star2: Community 
 
-* [Discord](https://discord.gg/hzzuNsn4WX)
-* [X](https://x.com/flotiq)
+* ![Image](https://github.com/user-attachments/assets/f3c8ec6e-adab-4585-b5ab-8072c514baaa)(https://discord.gg/hzzuNsn4WX)
+* ![Image](https://github.com/user-attachments/assets/f6677287-c00c-48dc-9ce8-189c00781eb6)(https://x.com/flotiq)
 * [Changelog](https://flotiq.com/changelog/?utm_campaign=flotiq_headless_cms_app&utm_medium=referral&utm_source=github_readme)
 
 If you have any questions or propositions on how to make Flotiq a better place, please [address them to us](mailto:hello@flotiq.com)
