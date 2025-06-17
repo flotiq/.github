@@ -26,11 +26,11 @@
 
 :computer: Flotiq
 
-* [Try Flotiq now](https://editor.flotiq.com/login/?utm_campaign=flotiq_headless_cms_app&utm_medium=referral&utm_source=github_readme) - create a free account and build your first project
-* [Docs](https://flotiq.com/docs/?utm_campaign=flotiq_headless_cms_app&utm_medium=referral&utm_source=github_readme) - more technical information about Flotiq functionalities
-* [Starters](https://flotiq.com/starters/?utm_campaign=flotiq_headless_cms_app&utm_medium=referral&utm_source=github_readme) - custom-designed, professional starter projects based on NextJS and Gatsby, to help you start your next website
+* [Try Flotiq now](https://editor.flotiq.com/login/?utm_campaign=readme&utm_medium=referral&utm_source=github_readme) - create a free account and build your first project
+* [Docs](https://flotiq.com/docs/?utm_campaign=readme&utm_medium=referral&utm_source=github_readme) - more technical information about Flotiq functionalities
+* [Starters](https://flotiq.com/starters/?utm_campaign=readme&utm_medium=referral&utm_source=github_readme) - custom-designed, professional starter projects based on NextJS and Gatsby, to help you start your next website
 * [React components](https://flotiq.github.io/flotiq-components-react/?path=/docs/flotiq-components-for-react--docs)  - Flotiq React components library
-* [Blog](https://flotiq.com/blog/?utm_campaign=flotiq_headless_cms_app&utm_medium=referral&utm_source=github_readme) - Flotiq updates and life inside our company
+* [Blog](https://flotiq.com/blog/?utm_campaign=readme&utm_medium=referral&utm_source=github_readme) - Flotiq updates and life inside our company
 * **[Book a demo](https://calcom.dev.cdwv.pl/team/flotiq/demo)**- book a call with our founder to discuss Flotiq for your product needs.
 
 :star2: Community 
@@ -38,7 +38,7 @@
 <p align="center">
 <a href="https://discord.gg/hzzuNsn4WX"><img src="https://github.com/user-attachments/assets/f3c8ec6e-adab-4585-b5ab-8072c514baaa" alt="Discord" width="50px"/></a>
 <a href="https://x.com/flotiq"><img src="https://github.com/user-attachments/assets/f6677287-c00c-48dc-9ce8-189c00781eb6" alt="X" width="50px"/></a>
-<a href="https://flotiq.com/changelog/?utm_campaign=flotiq_headless_cms_app&utm_medium=referral&utm_source=github_readme"><img src="https://github.com/user-attachments/assets/7ce895d1-6870-4d31-8cf3-603b384e57d8" alt="Changelog" width="50px"/></a>
+<a href="https://flotiq.com/changelog/?utm_campaign=readme&utm_medium=referral&utm_source=github_readme"><img src="https://github.com/user-attachments/assets/7ce895d1-6870-4d31-8cf3-603b384e57d8" alt="Changelog" width="50px"/></a>
 </p>
 
 If you have any questions or propositions on how to make Flotiq a better place, please [address them to us](mailto:hello@flotiq.com)
